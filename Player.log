@@ -1,7 +1,7 @@
-Mono path[0] = 'C:/Users/cafer/Desktop/RimWorld.Biotech/RimWorld.Biotech/RimWorldWin64_Data/Managed'
-Mono config path = 'C:/Users/cafer/Desktop/RimWorld.Biotech/RimWorld.Biotech/MonoBleedingEdge/etc'
+Mono path[0] = 'C:/Users/cafer/Desktop/RimWorld.v1.4.3641/RimWorld.v1.4.3641/RimWorldWin64_Data/Managed'
+Mono config path = 'C:/Users/cafer/Desktop/RimWorld.v1.4.3641/RimWorld.v1.4.3641/MonoBleedingEdge/etc'
 Initialize engine version: 2019.4.30f1 (e8c891080a1f)
-[Subsystems] Discovering subsystems at path C:/Users/cafer/Desktop/RimWorld.Biotech/RimWorld.Biotech/RimWorldWin64_Data/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/cafer/Desktop/RimWorld.v1.4.3641/RimWorld.v1.4.3641/RimWorldWin64_Data/UnitySubsystems
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -10,33 +10,33 @@ Direct3D:
     VRAM:     8019 MB
     Driver:   31.0.15.2824
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.078 seconds
+- Completed reload, in  0.083 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.566500 ms
-RimWorld 1.4.3523 rev1010
-Fallback handler could not load library C:/Users/cafer/Desktop/RimWorld.Biotech/RimWorld.Biotech/RimWorldWin64_Data/Mono/data-00000246161CB020.dll
-Fallback handler could not load library C:/Users/cafer/Desktop/RimWorld.Biotech/RimWorld.Biotech/RimWorldWin64_Data/Mono/data-00000245F4F62FF0.dll
-Fallback handler could not load library C:/Users/cafer/Desktop/RimWorld.Biotech/RimWorld.Biotech/RimWorldWin64_Data/Mono/data-00000246160E5AD0.dll
-Fallback handler could not load library C:/Users/cafer/Desktop/RimWorld.Biotech/RimWorld.Biotech/RimWorldWin64_Data/Mono/data-0000024616112330.dll
-Fallback handler could not load library C:/Users/cafer/Desktop/RimWorld.Biotech/RimWorld.Biotech/RimWorldWin64_Data/Mono/data-00000246165446E0.dll
-Fallback handler could not load library C:/Users/cafer/Desktop/RimWorld.Biotech/RimWorld.Biotech/RimWorldWin64_Data/Mono/data-00000246167E2080.dll
+UnloadTime: 0.825200 ms
+RimWorld 1.4.3641 rev649
+Fallback handler could not load library C:/Users/cafer/Desktop/RimWorld.v1.4.3641/RimWorld.v1.4.3641/RimWorldWin64_Data/Mono/data-000001DDF54A5010.dll
+Fallback handler could not load library C:/Users/cafer/Desktop/RimWorld.v1.4.3641/RimWorld.v1.4.3641/RimWorldWin64_Data/Mono/data-000001DDF213BCB0.dll
+Fallback handler could not load library C:/Users/cafer/Desktop/RimWorld.v1.4.3641/RimWorld.v1.4.3641/RimWorldWin64_Data/Mono/data-000001DDCFDFB030.dll
+Fallback handler could not load library C:/Users/cafer/Desktop/RimWorld.v1.4.3641/RimWorld.v1.4.3641/RimWorldWin64_Data/Mono/data-000001DDF5363010.dll
+Fallback handler could not load library C:/Users/cafer/Desktop/RimWorld.v1.4.3641/RimWorld.v1.4.3641/RimWorldWin64_Data/Mono/data-000001DDCE772010.dll
+Fallback handler could not load library C:/Users/cafer/Desktop/RimWorld.v1.4.3641/RimWorld.v1.4.3641/RimWorldWin64_Data/Mono/data-000001DDF58A13F0.dll
 [MadSkills]: settings initialized, multiplier is 0.1, tiered, daily XP threshold is 4000, saturated XP multiplier is 0.2, Great Memory trait is altered.
 [MadSkills]: settings initialized, multiplier is 0.1, tiered, daily XP threshold is 4000, saturated XP multiplier is 0.5, Great Memory trait is altered.
 [MadSkills]: settings initialized, multiplier is 0.1, tiered, daily XP threshold is 4000, saturated XP multiplier is 0.5, Great Memory trait is altered.
-Fallback handler could not load library C:/Users/cafer/Desktop/RimWorld.Biotech/RimWorld.Biotech/RimWorldWin64_Data/Mono/data-00000246166C13B0.dll
+Fallback handler could not load library C:/Users/cafer/Desktop/RimWorld.v1.4.3641/RimWorld.v1.4.3641/RimWorldWin64_Data/Mono/data-000001DDF5D2F3F0.dll
 [MadSkills]: changed behavior of Great Memory trait.
 Unloading 5 Unused Serialized files (Serialized files now loaded: 3)
 
-Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 19291.
-Total: 157.272400 ms (FindLiveObjects: 1.163700 ms CreateObjectMapping: 1.053800 ms MarkObjects: 154.969600 ms  DeleteObjects: 0.085000 ms)
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 19317.
+Total: 163.231200 ms (FindLiveObjects: 1.428600 ms CreateObjectMapping: 1.353300 ms MarkObjects: 160.261800 ms  DeleteObjects: 0.186300 ms)
 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 3)
-UnloadTime: 0.307500 ms
+UnloadTime: 0.328800 ms
 
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 19315.
-Total: 156.219600 ms (FindLiveObjects: 0.603700 ms CreateObjectMapping: 1.092100 ms MarkObjects: 154.485200 ms  DeleteObjects: 0.038200 ms)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 19341.
+Total: 159.605700 ms (FindLiveObjects: 0.607900 ms CreateObjectMapping: 0.975000 ms MarkObjects: 157.877800 ms  DeleteObjects: 0.143900 ms)
 
 Loading game from file The League of the Mountains with mods:
   - brrainz.harmony
@@ -48,13 +48,89 @@ Loading game from file The League of the Mountains with mods:
   - ratys.madskills
   - sumghai.medpod
   - BerryRagepyre.PrisonerRecreation
+Loaded file (Map) is from version 1.4.3523 rev1010, we are running version 1.4.3641 rev649. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -768989960 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -577805203 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -768989960 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -577805203 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key 523713510 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -768989960 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key 523713510 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key 1641832524 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -577805203 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -768989960 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key 1641832524 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -768989960 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -768989960 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key 150588248 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -768989960 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key 906686948 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key 150588248 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key 906686948 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key 523713510 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -768989960 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -768989960 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -577805203 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -768989960 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key -768989960 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key 150588248 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find think node with key 150588248 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
 Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
 
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 24989.
-Total: 324.636900 ms (FindLiveObjects: 0.900800 ms CreateObjectMapping: 1.821800 ms MarkObjects: 321.869200 ms  DeleteObjects: 0.044500 ms)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 25015.
+Total: 340.701300 ms (FindLiveObjects: 0.879800 ms CreateObjectMapping: 3.139000 ms MarkObjects: 336.640500 ms  DeleteObjects: 0.041700 ms)
 
-Setting up 4 worker threads for Enlighten.
-  Thread -> id: 1978 -> priority: 1 
-  Thread -> id: a1c -> priority: 1 
-  Thread -> id: 3ae8 -> priority: 1 
-  Thread -> id: 448 -> priority: 1 
